@@ -24,7 +24,7 @@ PUSH_TOKEN= '141aed6f7db14419a86c27d87d00ed30'
 
 # server酱 微信推送。使用参考 https://sct.ftqq.com/
 # SCKEY = os.environ.get('SCKEY')
-SCKEY='SCT249554TFKlpV0NGUYPG8VXP7bMz9DGL'
+SCKEY='SCT74162ThNwl8cpRnueRGBbvKzTlK06q'
 
 
 '''
